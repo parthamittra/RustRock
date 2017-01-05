@@ -1,6 +1,0 @@
-[package]
-name = "rust_rock"
-version = "0.1.0"
-authors = ["EsportsHero <partha@esportshero.com>"]
-
-[dependencies]
